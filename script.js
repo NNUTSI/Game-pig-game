@@ -1,6 +1,4 @@
 'use strict';
-<<<<<<< HEAD
-=======
 
 // Selecting elements
 const score0El = document.querySelector ('#score--0');
@@ -48,4 +46,4 @@ current0El.textContent = currentScore; //change later
  
 }
 }); 
->>>>>>> 867486d9a6f7b240ecb03102a9b2d4af1ac3e9cb
+
